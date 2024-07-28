@@ -1,0 +1,9 @@
+langchain
+PyPDF2
+chromadb
+openai
+streamlit
+python-dotenv
+IPython
+mlflow<2.11.3  # Adjust this based on the version that supports your packaging
+packaging==23.2

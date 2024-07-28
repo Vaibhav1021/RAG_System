@@ -1,0 +1,3 @@
+cd C:\Users\Vaibhav\Desktop\RAG
+venv\Scripts\activate
+streamlit run app.py
